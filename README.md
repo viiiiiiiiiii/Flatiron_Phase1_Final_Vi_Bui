@@ -1,6 +1,8 @@
-# Microsoft Studios - Building a Movie Studio for the Future
+# Flatiron Data Science - Phase 1 Final Project - Vi Bui
 
 * Student Name: Vi Bui
+
+# Microsoft Studios - Building a Movie Studio for the Future
 
 ## Project Overview
 
