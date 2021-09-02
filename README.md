@@ -72,7 +72,7 @@ Core variables: Production Budget, Worldwide Gross, Genre, Studio, Release Date,
 
 Data shows strong correlation (0.75) between Production Budget and Worldwide Gross for all movies in the database (5782 films from 1915-2019). Average Production Budget is 34,033,480 and Average Worldwide Gross is 100,761,506.
 
-![image.png](attachment:image.png)
+<img src='images/1regression.png'>
 
 ## Business Objective #2 - Competitive & Benchmark Landscape
 
@@ -86,11 +86,11 @@ Part 2: we would like to analyze worldwide gross as it relates to movie *studio*
 
 Top 5 Studios - Worldwide Gross from 2009-2019
 
-![image.png](attachment:image.png)
+<img src='images/2studio_gross.png'>
 
 Top 5 Studios - Production Budget from 2009-2019
 
-![image.png](attachment:image.png)
+<img src='images/3studio_budget.png'>
 
 ## Business Objective #3 - Launch Timing 
 
@@ -99,27 +99,24 @@ Top 5 Studios - Production Budget from 2009-2019
 * **Recommendations:** While there is appeal in launching during the most popular months, we think there is an opportunity to capture "off" months while other studios are less active 
 * **Source:** 1. The Numbers and 2. Box Office Mojo Databases 
 
-Seasonality Trends - Top 5 Studios (2009-2019)
-
-![image.png](attachment:image.png)
-
-* Business objective: explore Seasonality 
-* We now have all the data needed to work on Business Question #2: Seasonality and Launch Timing 
-
 Seasonality Trends - All Movies (2009-2019)
 
-![image.png](attachment:image.png)
+<img src='images/4seasonality_allmovies.png'> 
+
+Seasonality Trends - Top 5 Studios (2009-2019)
+
+<img src='images/5seasonality_top5.png'> 
 
 * From above, observe the difference vs. top five studio seasonality 
 * QUICK OBSERVATION: the top five studios have strong worldwide gross in February, June, and November 
 
 Monthly Trends by Year - All Movies (2009-2019)
 
-![image.png](attachment:image.png)
+<img src='images/6seasonailtyind_allmovies.png'> 
 
 Monthly Trends by Year - Top 5 Studios (2009-2019)
 
-![image.png](attachment:image.png)
+<img src='images/7seasonailtyind_top5.png'> 
 
 ## Business Objective #4 - Genre Assortment 
 
@@ -133,7 +130,7 @@ Genre Efficiency - Worldwide Sales Per Film
 Top Left Quadrant: Highly Efficient <br>
 Bottom Right: Mainstream/Popular 
 
-![image.png](attachment:image.png)
+<img src='images/8genreefficiency.png'> 
 
 # Evaluation and Conclusions
 
